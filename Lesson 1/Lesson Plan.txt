@@ -1,0 +1,29 @@
+Lesson Plan
+    Summary: Today focuses on getting the tech stack set up, and 
+    understanding Comments, Prints, Variables, and Mathmatics. If 
+    theres extra time, we will also learn about lists, strings, 
+    indentation, and data types
+    
+
+    I. Tech Stack
+        A. Download VS Code, Live Share extension, and Python extension
+        B. Make a GitHub Account, Dowload GitHub Desktop, Clone my repo
+        C. Open Repo with VS Code, start Live Share, Send me the link
+    II.Go over "Hello World.py" 
+        A.explain the importance of hello worlds
+        B. explain comments 
+    in cs and how print statements are used in debugging
+    III. Go Over "vars.py"
+        A. explain what varaibles are and how they are used
+        B. Complete the exercise
+    IV. Open "Lists.py"
+        A. Explain thats lists are the next most import data structure
+        B. Explain thingd in a list are called "elements"
+        C. do the exercise
+    V. Open "Strings.py"
+        A. Explain that strings are just list under the hood, but their
+        simplified because there used so much
+        B. explain "input()" gets input from the command line
+        C. Do part 1
+        D. explain data types and casting
+        E. do part 2
