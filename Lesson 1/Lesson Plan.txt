@@ -15,10 +15,11 @@ Lesson Plan
     in cs and how print statements are used in debugging
     III. Go Over "vars.py"
         A. explain what varaibles are and how they are used
-        B. Complete the exercise
+        B. teach word Instantiate
+        C. Complete the exercise
     IV. Open "Lists.py"
         A. Explain thats lists are the next most import data structure
-        B. Explain thingd in a list are called "elements"
+        B. Explain things in a list are called "elements"
         C. do the exercise
     V. Open "Strings.py"
         A. Explain that strings are just list under the hood, but their

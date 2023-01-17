@@ -15,3 +15,5 @@ l = []
 #remove 5 from the version of l2 thats in l
 
 #print l and l2
+
+#print the length of l

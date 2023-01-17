@@ -1,0 +1,22 @@
+Lesson Plan
+    Summary: Today focuses on control flow. First we will learn 
+    about if statments and then loops and functions
+
+    I. Review
+    II. if statements
+        A. go over booleans and conditionals
+        B. do exercise
+    III. loops
+        A. While loops
+            1.explain the word iteration
+            2.do the exercise
+                a.explain break and continue
+            3.explain infinte loops and ctrl c
+        B. For loops
+            1.do the exercise
+    IV. functions
+        A. explain the word arguments/parameters
+        B. do the exercise
+            1. explain foo and bar
+            2. explain recusions
+            3. explain None

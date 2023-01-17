@@ -1,20 +1,18 @@
 str = input()
-num = "23"
+num = 23
 str2 = "Hello!"
 
 #part1
 
-    #change the first element in str to "t"
-
-    #change the 3rd element in str to "t"
+    #print the thrird element in str
 
     #add "!" to the end of str
-
-    #remove the element in position 5 from str
 
     #set str to eqaul a concatination of str2 and str with a space in between
 
     #print str
+
+    #print the length of str
 
 #part 2
 
@@ -27,6 +25,8 @@ str2 = "Hello!"
     #set num eqaul to itself plus "1"
 
     #caste num to an integer
+
+    #print num
 
     #add 1 to num
 
