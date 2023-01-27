@@ -26,5 +26,6 @@ Lesson Plan
         simplified because there used so much
         B. explain "input()" gets input from the command line
         C. Do part 1
+			1. Explain "ln"
         D. explain data types and casting
         E. do part 2
